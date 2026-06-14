@@ -1,0 +1,18 @@
+COMPUTED SUMMARY (honest numbers; all bits per emitted pulse)
+================================================================
+Static profile (M=8, e in [0.5%,8%], e_bar = 0.0336):
+  Jensen gap                = 0.01353 bits
+  variance lower bound      = 0.00174 bits
+  finite-size gain at 10 dB, n=1e10:
+     B4* = 5.16527e-02
+     B1  = 5.00724e-02
+     dR  = 1.580e-03
+  With ADAPTIVE M, B4* >= B1 at every loss (verified on the grid).
+
+Dynamic scenario (e_m grows with distance, n=1e12):
+  pooled error reaches 10% near L = 28 km
+  B1 global analysis    : positive key up to  L = 28 km
+  B4* sector-conditioned: positive key up to  L = 48 km
+  certified distance extension = 20 km (model-dependent)
+  PLOB violated anywhere: False
+================================================================
