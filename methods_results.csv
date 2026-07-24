@@ -1,0 +1,25 @@
+scenario,pretty,method,ref,partition,L_km,R
+monotone,I. Monotone drift,Tomamichel \etal (EUR),Tomamichel,pooled,50,0.0
+monotone,I. Monotone drift,Lim \etal (Chernoff),lim2014,pooled,50,0.0
+monotone,I. Monotone drift,Wiesemann \etal (consol.),Wiesemann2026,pooled,50,0.0
+monotone,I. Monotone drift,Kamin \etal (GEAT),KaminGEAT,pooled,50,0.0
+monotone,I. Monotone drift,Arqand \etal (R\'enyi GEAT),ArqandGREAT,pooled,50,0.0
+monotone,I. Monotone drift,Mannalath \etal (sharp),Mannalath2025,pooled,50,0.0
+monotone,I. Monotone drift,Bae \etal (blockwise),Bae2025Blockwise,blocks,50,0.002273773066370025
+monotone,I. Monotone drift,\textbf{This work},,sectors,50,0.0023081030461856015
+quasi-mild,II. Quasi-periodic (mild),Tomamichel \etal (EUR),Tomamichel,pooled,50,0.0012367506283030578
+quasi-mild,II. Quasi-periodic (mild),Lim \etal (Chernoff),lim2014,pooled,50,0.0012559781688831614
+quasi-mild,II. Quasi-periodic (mild),Wiesemann \etal (consol.),Wiesemann2026,pooled,50,0.0012673775353228445
+quasi-mild,II. Quasi-periodic (mild),Kamin \etal (GEAT),KaminGEAT,pooled,50,0.0013144760679406021
+quasi-mild,II. Quasi-periodic (mild),Arqand \etal (R\'enyi GEAT),ArqandGREAT,pooled,50,0.001315097105572673
+quasi-mild,II. Quasi-periodic (mild),Mannalath \etal (sharp),Mannalath2025,pooled,50,0.0012675287429732406
+quasi-mild,II. Quasi-periodic (mild),Bae \etal (blockwise),Bae2025Blockwise,blocks,50,0.001153025433712988
+quasi-mild,II. Quasi-periodic (mild),\textbf{This work},,sectors,50,0.006490228808162029
+quasi-strong,III. Quasi-periodic (strong),Tomamichel \etal (EUR),Tomamichel,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Lim \etal (Chernoff),lim2014,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Wiesemann \etal (consol.),Wiesemann2026,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Kamin \etal (GEAT),KaminGEAT,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Arqand \etal (R\'enyi GEAT),ArqandGREAT,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Mannalath \etal (sharp),Mannalath2025,pooled,50,0.0
+quasi-strong,III. Quasi-periodic (strong),Bae \etal (blockwise),Bae2025Blockwise,blocks,50,0.0
+quasi-strong,III. Quasi-periodic (strong),\textbf{This work},,sectors,50,0.004176058123378
