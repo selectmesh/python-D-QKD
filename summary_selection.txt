@@ -1,5 +1,0 @@
-SECTOR-SELECTION DYNAMIC RESULT (n=1e12, declared kappa model)
-  B1 global abort distance        : 28 km
-  B4** selection abort distance   : 168 km
-  certified extension             : 140 km
-  PLOB violated                   : False
